@@ -7,7 +7,7 @@ padding:0px;
 body {
 	font-family: 'Open Sans', sans-serif;
 	margin:0px;
-	background-color:#F5F8FA;
+	background-color:#B2ADAD;
 }
 #header{
 	background-image:url(bilder/hirev.png);
@@ -47,11 +47,12 @@ li:first-child{
 }
 #footer{
 	height:30px;
-	background-color:white;
 	text-align:center;
 	font-size: 10px;
 }
 
 #ts3viewer_1094423{
 	margin:50px;
+	background-color:#FFFFFF;
+	padding:15px;
 }
