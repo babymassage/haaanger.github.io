@@ -7,13 +7,13 @@ padding:0px;
 body {
 	font-family: 'Open Sans', sans-serif;
 	margin:0px;
-	background-color:#B2ADAD;
+	background-color:#E9EBEE;
 }
 #header{
-	background-image:url(bilder/hirev.png);
-	background-repeat:no-repeat;
-	background-position:center;
-	height:300px;
+
+}
+#logo{
+
 }
 
 ul {
@@ -30,15 +30,16 @@ li {
 
 li a {
     display: block;
-    color:#F5F8FA;
+    color:#FFFFFF;
     text-align: center;
     padding: 14px 30px;
     text-decoration: none;
 	transition:background-color 0.4s;
+	height:30px;
 }
 
 li a:hover {
-    background-color:#F5F8FA;
+    background-color:#FFFFFF;
 	color:#333;
 }
 
@@ -53,6 +54,15 @@ li:first-child{
 
 #ts3viewer_1094423{
 	margin:50px;
-	background-color:#FFFFFF;
+	background-color:#E9EBEE;
 	padding:15px;
+	border:2px solid #757575;
+	border-radius:10px;
+}
+#startseite{
+	background-image:url(bilder/hirev.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	height:179px;
+	margin-top:20%;
 }
