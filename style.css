@@ -113,3 +113,40 @@ video {
 	height: 100%;
 	z-index: -1;
 }
+#textstartseite{
+	margin-top:5%;
+	text-align:center;
+}
+#video1{
+	position:absolute;
+	left:50%;
+	width:854px;
+	margin-left:-427px;
+	height:480px;
+	margin-top:120px;
+}
+#video2{
+	position:absolute;
+	left:50%;
+	width:854px;
+	margin-left:-427px;
+	height:480px;
+	margin-top:720px;
+}
+#video3{
+	position:absolute;
+	left:50%;
+	width:854px;
+	margin-left:-427px;
+	height:480px;
+	margin-top:1320px;
+}
+#video4{
+	position:absolute;
+	left:50%;
+	width:854px;
+	margin-left:-427px;
+	height:480px;
+	margin-top:1920px;
+	margin-bottom:120px;
+}
